@@ -111,7 +111,7 @@ Preparations
     refs:
       - https://www.fleetfeet.com/blog/10-minute-core-routine-for-runners
 
-  Bench press and Smith machine overhead press
+  Bench press, Smith machine overhead press, squat, bicep curl, tricep press-down
     For endurance, use less weight and more repetitions.
 
   Flexibility training
