@@ -31,6 +31,13 @@ Pace
   TP
     Tempo pace means a little faster than goal pace, on the other hand reduce the distance compared to an easy run.
 
+  Yasso format
+    Predict marathon time with 800m repetitions. Each repetition should take the same time. Runner should strive for the fastest pace that is sustainable, so the first repetition should not be too fast. In one CARA training, the time for group II was 3:15 and rest time was 2:40, for 10 repetitions; the time was quite consistent (+/- 10s)
+
+    refs:
+      - https://marathonhandbook.com/yasso-800s/
+      - https://en.wikipedia.org/wiki/Bart_Yasso
+
 Running injury
   Discomfort from running.
 
@@ -118,6 +125,22 @@ Preparations
   Stride
     ...
 
+Nutrition
+  runners diet: salad, protein, eggs, vitamine
+
+  refs:
+    - https://en.wikipedia.org/wiki/Nutrition
+
+  Carbon loading
+    To avoid consume protein -- lost weight that cannot easily make up by re-hydration.
+
+  The wall
+    Average person becomes hungry after 1h45m and fatigue quickly after. Faster runner thus can avoid eating in a HM but cannot avoid eating in a marathon.
+
+    refs:
+      - https://en.wikipedia.org/wiki/Hitting_the_wall
+
+
 Toolkits
   ...
 
@@ -133,9 +156,12 @@ Toolkits
   Strava
     ...
 
-Yasso format
-  Predict marathon time with 800m repetitions. Each repetition should take the same time. Runner should strive for the fastest pace that is sustainable, so the first repetition should not be too fast. In one CARA training, the time for group II was 3:15 and rest time was 2:40, for 10 repetitions; the time was quite consistent (+/- 10s)
+  Running cap and goggles, sunscreen
+    ...
 
-  refs:
-    - https://marathonhandbook.com/yasso-800s/
-    - https://en.wikipedia.org/wiki/Bart_Yasso
+  Shorts, and singlets
+    ...
+
+  Shoes
+    ...
+
