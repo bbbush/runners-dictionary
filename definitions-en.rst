@@ -95,6 +95,44 @@ Running injury
       - Heat acclimatization https://www.cdc.gov/niosh/mining/userfiles/works/pdfs/2017-124.pdf
       - heat stress https://www.trailrunnermag.com/training/trail-tips-training/heat-acclimation-for-athletes-that-hate-the-heat/
 
+Preparations
+
+  Core strength
+    the muscle group around abdomen. Plank, glute bridge walk, reverse plank alternating foot lift (heel walk), side plank, bird dog.
+
+    refs:
+      - https://www.fleetfeet.com/blog/10-minute-core-routine-for-runners
+
+  Bench press and Smith machine overhead press
+    For endurance, use less weight and more repetitions.
+
+  Flexibility training
+    ...
+
+  Stretching
+    ...
+
+  Dynamic stretching
+    ...
+
+  Stride
+    ...
+
+Toolkits
+  ...
+
+  Foam-roller
+    ...
+
+  Deep tissue massage gun
+    ...
+
+  Massage blade
+    scary stuff
+
+  Strava
+    ...
+
 Yasso format
   Predict marathon time with 800m repetitions. Each repetition should take the same time. Runner should strive for the fastest pace that is sustainable, so the first repetition should not be too fast. In one CARA training, the time for group II was 3:15 and rest time was 2:40, for 10 repetitions; the time was quite consistent (+/- 10s)
 
