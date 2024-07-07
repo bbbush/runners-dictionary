@@ -103,6 +103,7 @@ Running injury
       - heat stress https://www.trailrunnermag.com/training/trail-tips-training/heat-acclimation-for-athletes-that-hate-the-heat/
 
 Preparations
+  ...
 
   Core strength
     the muscle group around abdomen. Plank, glute bridge walk, reverse plank alternating foot lift (heel walk), side plank, bird dog.
@@ -139,7 +140,6 @@ Nutrition
 
     refs:
       - https://en.wikipedia.org/wiki/Hitting_the_wall
-
 
 Toolkits
   ...
