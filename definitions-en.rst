@@ -47,7 +47,7 @@ Running injury
     The symptom of sharp pain, sometimes a nodule can be felt in the tendon. When the body is not warmed up, running too fast would injure the tendon. Soft surface (sand or grass) would also cause tendon to repetitively stretch. Stretching before and after running is very important for tendon to get used to the heavy load.
 
   Collapsed arch
-    For flat earthers, who has a flexible foot or weak arch, running may cause tendon to repetitively stretch. Tightly tied shoes may force the arch to collapse (? citation needed.) Supportive shoes can help both people with flat foot, as well as people with high arch (? citation needed.) As "supportive" is just an one-dimension metric, while foot may overpronate/underpronate on two directions, while shoes can provide support in all 3-dimensions (? citation needed.) The only concern for perfect shoes would be that at different speed (proportional to the force on the weight bearing foot, and how tired the tendon is), it may need different amount of correction. A shapeshifting pair of shoes might be possible (? citation needed.)
+    For flat earthers, who has a flexible foot or weak arch, running may cause tendon to repetitively stretch. Tightly tied shoes may force the arch to collapse (? citation needed.) Supportive shoes can help both people with flat foot, as well as people with high arch (? citation needed.) As "supportive" is just an one-dimension metric, while foot may overpronate/underpronate on two directions, while shoes can provide support in all 3-dimensions (? citation needed.) The only concern for perfect shoes would be that at different speed (proportional to the force on the weight bearing foot, and how tired the tendon is), it may need different amount of correction. A shape-shifting pair of shoes might be possible (? citation needed.)
 
     Flat earthlings are quite sensitive to shoes. When shoes run out of its useful life, the support and the comfort would be gone. When the rubber layer on the outer sole is depleted, and the foam layer gets compressed over and over and no longer bounce back in time, do not ignore pains. A pair of new shoes may take weeks to burn in like headphones do (? citation needed.)
 
@@ -62,7 +62,7 @@ Running injury
       - https://en.wikipedia.org/wiki/Shin_splints
 
   Runners toe
-    The symptom of bloody blisters under toenail. It may develop after just one run when the shoes are too small or the socks are too thick. When the socks are pressed against the toebox, it lost its ability to absorb impacts.
+    The symptom of bloody blisters under toenail. It may develop after just one run when the shoes are too small or the socks are too thick. When the socks are pressed against the toe-box, it lost its ability to absorb impacts.
 
     Runners also get fungal infection. Always blow the toenails and slippers dry after a bath. After each run, spray shoes with Lysol promptly.
 
