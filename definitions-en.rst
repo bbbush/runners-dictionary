@@ -13,7 +13,7 @@ Marathon
 Pace
   There are two ways to represent pace: the minutes per mile, or the reciprocal, the miles per hour. Unlike MPG (miles per gallon), where the fuel efficiency can be directly compared, many people prefer the minutes per mile measure. A treadmill usually allows the runner to choose between them.
 
-  In CARA training plan, there are several different types of runs, and the pace of each is related to the goal pace. Runners have very different understanding to pace terms due to indiviual goals and conditions. Weather (temperature, humidity, wind, rain or snow) can severely affect performance. Thus when looking at the pace number for a certain run, one has to combine all the information to understand what type of run it is. Typically there is one TP (tempo pace) per week, one LR (long run pace), one track run, and 2-3 easy runs.
+  In CARA training plan, there are several different types of runs, and the pace of each is related to the goal pace. Runners have very different understanding to pace terms due to individual goals and conditions. Weather (temperature, humidity, wind, rain or snow) can severely affect performance. Thus when looking at the pace number for a certain run, one has to combine all the information to understand what type of run it is. Typically there is one TP (tempo pace) per week, one LR (long run pace), one track run, and 2-3 easy runs.
 
   1mi, 5K
     Only for track, the fastest speed sustainable for that distance.
