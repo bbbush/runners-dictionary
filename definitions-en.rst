@@ -5,7 +5,7 @@ CARA
     - https://www.cararuns.org/
 
 Marathon
-  26.22mi or 42.195km. A dumb runners would say "I just finished 5K marathon," but that is a misuse of the term.
+  26.22mi or 42.195km. A dumb runner would say "I just finished my 5K marathon," but that is a misuse of the term.
 
   refs:
     - https://en.wikipedia.org/wiki/Marathon
